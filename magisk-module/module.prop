@@ -1,0 +1,6 @@
+id=pixel-tv-box
+name=Pixel to TV Box Transformer
+version=v1.0.0
+versionCode=100
+author=preetstyle
+description=Transforms any Google Pixel (or Android phone with DisplayPort Alt Mode) into a dedicated Apple tvOS style Android TV Box. Kills broken touchscreen driver, locks 16:9 1080p landscape, auto-enables HDMI mirroring on any TV, enables wireless ADB, and optimizes battery/thermals for 24/7 docking.
