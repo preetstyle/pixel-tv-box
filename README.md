@@ -9,6 +9,19 @@
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/tv_home.jpg" width="100%" alt="Apple tvOS Style Home Screen on Google Pixel" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/tv_streaming.jpg" width="49%" alt="Nuvio Streaming App" />
+  <img src="assets/screenshots/tv_keyboard.jpg" width="49%" alt="Android TV LeanKeyboard" />
+</p>
+
+---
+
 ## 🌟 Why This Project?
 
 Modern flagship phones (like Google Pixel 8 with Google Tensor G3) are drastically more powerful than standard Android TV boxes, Fire Sticks, or cheap streaming dongles. When a screen shatters or the digitizer starts ghost-clicking, the phone usually ends up in e-waste.
